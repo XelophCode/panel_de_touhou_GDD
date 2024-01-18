@@ -1,1 +1,2 @@
-![[remu.png]]
+
+![Enable addon](remu.png)
